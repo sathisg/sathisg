@@ -1,5 +1,5 @@
 #!/bin/bash
 sudo apt update
-echo "new update"
+echo "new update1"
 
 
